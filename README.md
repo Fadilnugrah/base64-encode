@@ -1,8 +1,6 @@
 # base64-encode
----
-title: base64 encode
-date: 13-10-2021
-draft: false
+base64-encode adalah sebuah tools dimana meng encrypt ke encode base 64</br>
+* __build in date: 13-10-2021
 ---
 
 > how to install?</br>
